@@ -3,11 +3,15 @@
 
 # Default column names
 DEFAULT_USER_COL = "userID"
+DEFAULT_LIBIS_USER_COL = "user_id"
 DEFAULT_ITEM_COL = "itemID"
+DEFAULT_LIBIS_ITEM_COL = "record_id"
 DEFAULT_RATING_COL = "rating"
+DEFAULT_LIBIS_RATING_COL = "order_count"
 DEFAULT_LABEL_COL = "label"
 DEFAULT_TITLE_COL = "title"
 DEFAULT_GENRE_COL = "genre"
+DEFAULT_LIBIS_GENRE_COL = "genres"
 DEFAULT_RELEVANCE_COL = "relevance"
 DEFAULT_TIMESTAMP_COL = "timestamp"
 DEFAULT_PREDICTION_COL = "prediction"
